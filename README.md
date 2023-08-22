@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Carina De Souza</h2>
-<h3 align="center">Living my dream life as a computer engineer……🤍</h3>
+<h3 align="center">Living my dream life as a computer engineer 🤍</h3>
 
 - 🔭 I’m currently working on **Teknorix website**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carina De Souza</h1>
+<h1 align="center">Hi, I'm Carina De Souza</h1>
 <h3 align="center">Living my dream life as a computer engineer……🤍</h3>
 
 - 🔭 I’m currently working on **Teknorix website**

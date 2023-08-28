@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carina-desouza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carina-desouza/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_carinadesouza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_carinadesouza/" height="30" width="40" /></a>
 </p>
-## 🛠️ Tech Stack:
+<h3> 🛠️ Tech Stack:</h3>
 
 <p> 
    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/> 

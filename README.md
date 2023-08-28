@@ -14,6 +14,18 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carina-desouza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carina-desouza/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_carinadesouza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_carinadesouza/" height="30" width="40" /></a>
 </p>
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%23F7DF1E) ![Next.js](https://img.shields.io/badge/next-%23323330.svg?style=flat&logo=Next&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=flat&logo=bootstrap&logoColor=%23F7DF1E)  ![MySQL](https://img.shields.io/badge/figma-%2300f.svg?style=flat&logo=figma&logoColor=white) ![Figma](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%2300f.svg?style=flat&logo=tailwindcss&logoColor=white)![Oracle](https://img.shields.io/badge/oracle-%2300f.svg?style=flat&logo=oracle&logoColor=white)
+## 🛠️ Tech Stack:
 
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/> 
+   <img alt="Java" src="https://img.shields.io/badge/java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB" height="25px"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+   <img alt="Strapi" src="https://img.shields.io/badge/strapi-black?style=for-the-badge&logo=strapi&logoColor=white" height="25px"/>
+  <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+</p>

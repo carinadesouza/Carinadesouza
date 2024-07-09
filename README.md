@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a  **Freelancer**
 
-- 🌱 I’m currently learning **React.js,Next.js,Ui/Ux,strapi**
+- 🌱 I’m currently learning **nestjs,R language**
 
 - 👨‍💻 All of my projects are available at [https://carinadesouza.github.io/Portfolio-Website/](https://carinadesouza.github.io/Portfolio-Website/)
 

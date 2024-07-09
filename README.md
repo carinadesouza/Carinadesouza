@@ -30,4 +30,8 @@
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/> 
    <img alt="Figma" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/> 
   <img alt="github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+   <img alt="AntDesign" src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" height="25px"/>
+  <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+  <img alt="Neon" src="https://img.shields.io/badge/Neon-FCC624?style=for-the-badge&logo=neon&logoColor=black" height="25px"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="25px"/>
 </p>

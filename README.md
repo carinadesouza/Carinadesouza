@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a  **Freelancer**
 
-- 🌱 I’m currently learning **nestjs,R language**
+- 🌱 I’m currently learning **Python,R language**
 
 - 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)
 

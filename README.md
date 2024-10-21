@@ -1,8 +1,6 @@
 <h2 align="center">Hi, I'm Carina De Souza</h2>
 <h3 align="center">Living my dream life as a Computer Engineer 🤍</h3>
 
-- 🔭 I’m currently working as a  **Freelancer**
-
 - 🌱 I’m currently learning **Python,R language**
 
 - 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)

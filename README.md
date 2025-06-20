@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,R language**
 
-- 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)
+
 
 - 📫 How to reach me **carinadesouza84@gmail.com**
 

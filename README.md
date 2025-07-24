@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me **carinadesouza84@gmail.com**
-
+- 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">

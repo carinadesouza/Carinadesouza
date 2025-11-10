@@ -79,7 +79,8 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25px"/>
 </p>
 
-<h3>✨ Currently Working On:</h3>
-<p>🔹 Building intelligent data-driven web apps integrating <strong>Machine Learning</strong> with <strong>Next.js</strong> and <strong>Streamlit</strong><br/>
-🔹 Exploring <strong>AI for Sustainability</strong> and <strong>Predictive Analytics</strong><br/>
-🔹 Enhancing my expertise in <strong>Data Visualization & Storytelling</strong></p>
+<p>
+  <strong>Design & Communication:</strong><br/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25px"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="25px"/>
+</p>

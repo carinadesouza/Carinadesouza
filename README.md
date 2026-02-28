@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carina De Souza</h1>
-<h3 align="center">Computer Science Engineer | MSc Data Science Student @ Lancaster University 🇬🇧</h3>
+<h3 align="center">Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧</h3>
 
 <p align="center">
 Passionate about AI, Data Science, and Building Real-World Solutions 🤍

@@ -6,18 +6,17 @@ Passionate about AI, Data Science, and Building Real-World Solutions 🤍
 </p>
 
 ---
-
-## 👩‍💻 About Me
-
-🎓 MSc Data Science student at **Lancaster University**  
-💡 Final Year Project: **AI Timetable Generator using Genetic Algorithms**  
-🤖 Built a **Telecom Customer Support Chatbot** using Python + Flask  
-📊 Currently working on **Food Waste Reduction Assistant (Data Science Project)**  
-🌱 Learning Advanced Machine Learning, Spark, and Big Data  
-
-📫 Email: **carinadesouza84@gmail.com**  
-🌐 Portfolio: **https://carina-portfolio.vercel.app**
-<h3> 🛠️ Tech Stack:</h3>
+- 📫 How to reach me **carinadesouza84@gmail.com**
+- 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_carinadesouza/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 <!-- 🧮 Data Science & Machine Learning -->
 <p>

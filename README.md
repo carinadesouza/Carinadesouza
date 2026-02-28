@@ -1,4 +1,4 @@
-<!-- <h2 align="center">Hi, I'm Carina De Souza</h2>
+ <h2 align="center">Hi, I'm Carina De Souza</h2>
 <h3 align="center">Living my dream life as a Computer Engineer 🤍</h3>
 
 - 🌱 I’m currently pursuing an MSc in Data Science at Lancaster University.

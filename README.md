@@ -1,9 +1,7 @@
 <h2 align="center">Hi, I'm Carina De Souza</h2>
 <h3 align="center">Living my dream life as a Computer Engineer 🤍</h3>
 
-- 🌱 I’m currently learning **Python,R language**
-
-
+- 🌱 I’m currently pursuing an MSc in Data Science at Lancaster University.
 
 - 📫 How to reach me **carinadesouza84@gmail.com**
 - 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)
@@ -76,6 +74,7 @@
   <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" height="25px"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
 </p>
+
 
 <!-- 🚀 Tools & Deployment -->
 <p>

@@ -1,21 +1,16 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=200&section=header&text=Hi,%20I'm%20Carina%20De%20Souza%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MSc%20Data%20Science%20Student%20%40%20Lancaster%20University%20%7C%20Passionate%20about%20Data%20Science%2C%20AI%20%26%20Building%20Real-World%20Solutions&descAlignY=58&descSize=16" />
-</p>
+<h1 align="center">Hi, I'm Carina De Souza 👋</h1>
 
-<!-- Profile views + Typing SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carinadesouza&color=6A9FD8&style=flat-square&label=Profile+Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science;Full-Stack+%7C+AI+%7C+Machine+Learning;Building+Real-World+Data-Driven+Solutions" alt="Typing SVG" />
+  Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 &nbsp;|&nbsp; Passionate about Data Science, AI and Building Real-World Solutions 🤍
 </p>
 
 ---
 
-<!-- About Me + Image -->
-<img align="right" src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="360"/>
+<img align="right" src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380"/>
 
 <h3>🚀 About Me</h3>
 
@@ -34,28 +29,32 @@
 
 <br/>
 
-### 📫 Contact Me
+---
 
-<sub>📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)</sub>  
-<sub>🌐 &nbsp; [carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)</sub>  
+<h3>📫 Contact Me<h3>
+
+<sub>📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)</sub><br/>
+<sub>🌐 &nbsp; [carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)</sub>
 
 <br/>
 
-### 🔗 Connect with Me
+---
+
+<h3>🔗 Connect with Me<h3>
 
 <a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26px"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_carinadesouza/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26px"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28px"/>
 </a>
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<h3> 🛠️ Tech Stack<h3>
 
 <p>
   <strong>🧮 Data Science & Machine Learning:</strong><br/>
@@ -119,41 +118,14 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [Portfolio](https://carina-portfolio.vercel.app) | Personal portfolio showcasing projects & skills | Next.js, TailwindCSS, Vercel |
-| 🤖 ML Model Optimisation | Optimising ML pipelines for performance & accuracy | Python, Scikit-learn, Spark |
-| 📊 Data Dashboard | Interactive BI dashboard for real-world datasets | Streamlit, Power BI, Python |
-
-> ⭐ *Replace the bottom two rows with your actual projects & repo links!*
-
----
-
-## 📊 GitHub Stats
+<h3>📊 GitHub Stats<h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carinadesouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinadesouza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinadesouza&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carinadesouza&theme=tokyonight&no-frame=true&margin-w=8&column=7"/>
-</p>
-
-<!-- 🐍 Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>

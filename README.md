@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carina De Souza 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science;Full-Stack+%7C+AI+%7C+Machine+Learning;Building+Real-World+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science+Student;Full-Stack+%7C+AI+%7C+Machine+Learning;Building+Real-World+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,8 @@
 
 <img align="right" src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380"/>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
+
 🎓 &nbsp; MSc Data Science Student in the UK  
 💻 &nbsp; Software Engineer with Full-Stack experience  
 🤖 &nbsp; Passionate about AI, Machine Learning & Data Analytics  

@@ -1,10 +1,11 @@
-<!-- Banner Top -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=200&section=header&text=Hi,%20I'm%20Carina%20De%20Souza%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MSc%20Data%20Science%20Student%20%40%20Lancaster%20University%20%7C%20Passionate%20about%20Data%20Science%2C%20AI%20%26%20Building%20Real-World%20Solutions&descAlignY=58&descSize=14" />
-</p>
+<h1 align="center">Hi, I'm Carina De Souza 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science+Student" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 &nbsp;|&nbsp; Passionate about Data Science, AI and Building Real-World Solutions 🤍
 </p>
 
 ---
@@ -30,7 +31,7 @@
 
 ---
 
-<h3>📫 Contact Me</h3>
+<h3>📫 Contact Me<h3>
 
 <sub>📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)</sub><br/>
 <sub>🌐 &nbsp; [carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)</sub>
@@ -39,7 +40,7 @@
 
 ---
 
-<h3>🔗 Connect with Me</h3>
+<h3>🔗 Connect with Me<h3>
 
 <a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px"/>
@@ -53,7 +54,7 @@
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+<h3> 🛠️ Tech Stack<h3>
   
 <br/>
 
@@ -119,17 +120,14 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats<h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>
+  &nbsp;
+
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=120&section=footer" />
 </p>

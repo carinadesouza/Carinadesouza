@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Carina De Souza</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;MSc+Data+Science+Student;AI+Enthusiast&center=true&width=500&height=50">
-
-<p align="center">
-Passionate about AI, Data Science, and Building Real-World Solutions 🤍
-</p>
-
+<h2> Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 Passionate about Data Science, AI and Building Real-World Solutions.🤍<h2>
 ---
 ## 🚀 About Me
 

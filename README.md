@@ -85,3 +85,10 @@ Passionate about AI, Data Science, and Building Real-World Solutions 🤍
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25px"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25px"/>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinadesouza&show_icons=true&locale=en&layout=compact" alt="carinadesouza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinadesouza&show_icons=true&locale=en" alt="carinadesouza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carinadesouza&" alt="carinadesouza" /></p>

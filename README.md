@@ -1,7 +1,10 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=200&section=header&text=Hi,%20I'm%20Carina%20De%20Souza%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MSc%20Data%20Science%20Student%20%40%20Lancaster%20University%20%7C%20Passionate%20about%20Data%20Science%2C%20AI%20%26%20Building%20Real-World%20Solutions&descAlignY=58&descSize=16" />
-
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science;Full-Stack+%7C+AI+%7C+Machine+Learning;Building+Real-World+Data-Driven+Solutions" alt="Typing SVG" />
+</p>
 <!-- Profile views + Typing SVG -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carinadesouza&color=6A9FD8&style=flat-square&label=Profile+Views" />

@@ -28,6 +28,7 @@ Currently exploring:
 <!-- Clear float -->
 <div style="clear: both;"></div>
 </div>
+
 ## Contact me:
 
 - 📫 How to reach me **carinadesouza84@gmail.com**

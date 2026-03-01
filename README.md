@@ -125,7 +125,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinadesouza&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">

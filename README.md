@@ -8,8 +8,6 @@
   Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 &nbsp;|&nbsp; Passionate about Data Science, AI and Building Real-World Solutions 🤍
 </p>
 
----
-
 <img align="right" src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380"/>
 
 ## 🚀 About Me

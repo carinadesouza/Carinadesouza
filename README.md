@@ -24,6 +24,8 @@ Currently exploring:
     <!-- Right: Girly White GIF -->
     <td width="40%" valign="top" align="center">
    <p align="center">
+      <img src="https://pin.it/FJVBOjZjD" width="420"/>
+    
    </p>
     </td>
   </tr>

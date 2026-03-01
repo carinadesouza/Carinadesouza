@@ -15,12 +15,14 @@ Currently exploring:
 - Spark & Big Data Processing  
 - AI Feasibility Modelling  
 - MLOps & Model Deployment
-</div>
 
+  
  <p align="right">
   <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="250"/>
 </p>
 
+
+</div>
 
 <!-- Clear float -->
 <div style="clear: both;"></div>

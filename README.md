@@ -4,7 +4,7 @@
   <table>
 <tr>
 <td valign="top" width="60%">
-### 🚀 About Me
+🚀 About Me
 
 🎓 MSc Data Science Student in the UK  
 💻 Software Engineer with Full-Stack experience  

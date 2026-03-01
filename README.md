@@ -4,7 +4,7 @@
 <table>
   <tr>
     <!-- Left: About Me Text -->
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
 
 ### 🚀 About Me
 
@@ -22,7 +22,7 @@ Currently exploring:
     </td>
 
     <!-- Right: Girly White GIF -->
-    <td width="40%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
    <p align="center">
       <img src="https://i.pinimg.com/1200x/9d/e1/a0/9de1a04d2e76d3f8fa6c7f4062cdbcec.jpg" width="420"/>
   

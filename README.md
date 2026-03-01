@@ -112,7 +112,7 @@ Currently exploring:
 
 <!-- 🔥 GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=carina-desouza&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <!-- 🐍 Contribution Snake -->
 <p align="center">
@@ -120,5 +120,5 @@ Currently exploring:
 </p>
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carina-desouza&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=carinadesouza&theme=algolia&no-frame=true&margin-w=10"/>
 </p>

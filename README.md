@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carina De Souza 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science+Student;Full-Stack+%7C+AI+%7C+Machine+Learning;Building+Real-World+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MSc+Data+Science+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">

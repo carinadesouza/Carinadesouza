@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Carina De Souza</h1>
 <h5> Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 Passionate about Data Science, AI and Building Real-World Solutions.🤍<h5>
-<!-- About Me + GIF Side by Side -->
-<table>
-  <tr>
-    <!-- Left: About Me Text -->
-    <td width="50%" valign="top">
+<!-- About Me Section with Right-Aligned GIF -->
+<div>
 
+<!-- Left text -->
+<div style="float: left; width: 60%;">
 ### 🚀 About Me
 
 🎓 MSc Data Science Student in the UK  
@@ -18,19 +17,16 @@ Currently exploring:
 - Spark & Big Data Processing  
 - AI Feasibility Modelling  
 - MLOps & Model Deployment
+</div>
 
-    </td>
+<!-- Right GIF -->
+<div style="float: right; width: 35%; text-align: center;">
+  <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="250"/>
+</div>
 
-    <!-- Right: Girly White GIF -->
-    <td width="50%" valign="top" align="center">
-   <p align="center">
-      <img src="https://i.pinimg.com/1200x/9d/e1/a0/9de1a04d2e76d3f8fa6c7f4062cdbcec.jpg" width="420"/>
-  
-   </p>
-    </td>
-  </tr>
-</table>
----
+<!-- Clear float -->
+<div style="clear: both;"></div>
+</div>
 ## Contact me:
 
 - 📫 How to reach me **carinadesouza84@gmail.com**

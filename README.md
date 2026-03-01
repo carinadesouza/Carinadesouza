@@ -4,19 +4,18 @@
   <table>
 <tr>
 <td valign="top" width="60%">
-🚀 About Me
+### 🚀 About Me
 
-🎓 MSc Data Science Student in the UK
-🏗️ Software Engineer with Full-Stack experience
-🤖 Passionate about AI, Machine Learning & Data Analytics
-🌍 Love building real-world data-driven solutions
+🎓 MSc Data Science Student in the UK  
+💻 Software Engineer with Full-Stack experience  
+🤖 Passionate about AI, Machine Learning & Data Analytics  
+📊 Love building real-world data-driven solutions  
 
-Currently exploring:
-
-Machine Learning Model Optimisation
-Spark & Big Data Processing
-AI Feasibility Modelling
-MLOps & Model Deployment
+Currently exploring:  
+- Machine Learning Model Optimisation  
+- Spark & Big Data Processing  
+- AI Feasibility Modelling  
+- MLOps & Model Deployment  
 
 </td>
 <td valign="top" width="40%" align="center">

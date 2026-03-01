@@ -24,7 +24,28 @@ Currently exploring:
 </td>
 </tr>
 </table>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td width="55%" valign="top">
+<h2>🚀 About Me</h2>
+<p>🎓 &nbsp; MSc Data Science Student in the UK</p>
+<p>💻 &nbsp; Software Engineer with Full-Stack experience</p>
+<p>🤖 &nbsp; Passionate about AI, Machine Learning & Data Analytics</p>
+<p>📊 &nbsp; Love building real-world data-driven solutions</p>
+<br/>
+<p><strong>Currently exploring:</strong></p>
+<ul>
+  <li>Machine Learning Model Optimisation</li>
+  <li>Spark &amp; Big Data Processing</li>
+  <li>AI Feasibility Modelling</li>
+  <li>MLOps &amp; Model Deployment</li>
+</ul>
+</td>
+<td width="45%" valign="middle" align="center">
+<img src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380"/>
+</td>
+</tr>
+</table>
 <!-- Clear float -->
 <div style="clear: both;"></div>
 </div>

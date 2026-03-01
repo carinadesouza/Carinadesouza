@@ -100,11 +100,6 @@ Currently exploring:
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=carina-desouza&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carina-desouza&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 <!-- 🔥 GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>

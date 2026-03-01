@@ -3,8 +3,6 @@
 <!-- About Me Section with Right-Aligned GIF -->
 <div>
 
-<!-- Left text -->
-<div style="float: left; width: 60%;">
 ### 🚀 About Me
 
 🎓 MSc Data Science Student in the UK  
@@ -19,10 +17,10 @@ Currently exploring:
 - MLOps & Model Deployment
 </div>
 
-<!-- Right GIF -->
-<div style="float: right; width: 35%; text-align: center;">
+ <p align="right">
   <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="250"/>
-</div>
+</p>
+
 
 <!-- Clear float -->
 <div style="clear: both;"></div>

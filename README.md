@@ -27,14 +27,14 @@
 
 <br/>
 
-## 📫 Contact Me
+<h3>📫 Contact Me<h3>
 
 📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)  
 🌐 &nbsp; [carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)  
 
 <br/>
 
-## 🔗 Connect with Me
+<h3>🔗 Connect with Me<h3>
 
 <a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3> 🛠️ Tech Stack<h3>
 
 <p>
   <strong>🧮 Data Science & Machine Learning:</strong><br/>
@@ -112,7 +112,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3>📊 GitHub Stats<h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>

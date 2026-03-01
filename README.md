@@ -33,7 +33,7 @@
 
 <h3>📫 Contact Me<h3>
 
-<sub>📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)</sub>
+<sub>📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)</sub><br/>
 <sub>🌐 &nbsp; [carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)</sub>
 
 <br/>

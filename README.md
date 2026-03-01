@@ -8,61 +8,49 @@
   Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 &nbsp;|&nbsp; Passionate about Data Science, AI and Building Real-World Solutions 🤍
 </p>
 
-<br/>
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td width="55%" valign="top">
+<img align="right" src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380"/>
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-<p>🎓 &nbsp; MSc Data Science Student in the UK</p>
-<p>💻 &nbsp; Software Engineer with Full-Stack experience</p>
-<p>🤖 &nbsp; Passionate about AI, Machine Learning & Data Analytics</p>
-<p>📊 &nbsp; Love building real-world data-driven solutions</p>
+🎓 &nbsp; MSc Data Science Student in the UK  
+💻 &nbsp; Software Engineer with Full-Stack experience  
+🤖 &nbsp; Passionate about AI, Machine Learning & Data Analytics  
+📊 &nbsp; Love building real-world data-driven solutions  
 
 <br/>
 
-<p><strong>Currently exploring:</strong></p>
-<ul>
-  <li>Machine Learning Model Optimisation</li>
-  <li>Spark &amp; Big Data Processing</li>
-  <li>AI Feasibility Modelling</li>
-  <li>MLOps &amp; Model Deployment</li>
-</ul>
+**Currently exploring:**
+- 🔹 Machine Learning Model Optimisation
+- 🔹 Spark & Big Data Processing
+- 🔹 AI Feasibility Modelling
+- 🔹 MLOps & Model Deployment
 
 <br/>
 
-<h3>📫 Contact Me</h3>
-<p>📧 &nbsp; <a href="mailto:carinadesouza84@gmail.com">carinadesouza84@gmail.com</a></p>
-<p>🌐 &nbsp; <a href="https://carina-portfolio.vercel.app">carina-portfolio.vercel.app</a></p>
+## 📫 Contact Me
+
+📧 &nbsp; [carinadesouza84@gmail.com](mailto:carinadesouza84@gmail.com)  
+🌐 &nbsp; [carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)  
 
 <br/>
 
-<h3>🔗 Connect with Me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/_carinadesouza/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28px"/>
-  </a>
-</p>
+## 🔗 Connect with Me
 
-</td>
-<td width="45%" valign="middle" align="center">
+<a href="https://www.linkedin.com/in/carina-desouza/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/_carinadesouza/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28px"/>
+</a>
 
-<img src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380" style="border-radius: 12px;"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<!-- 🛠️ Tech Stack -->
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p>
   <strong>🧮 Data Science & Machine Learning:</strong><br/>
@@ -126,8 +114,7 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="170"/>
@@ -135,7 +122,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinadesouza&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<!-- 🐍 Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>

@@ -122,19 +122,4 @@ Currently exploring:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carinadesouza&theme=algolia&no-frame=true&margin-w=10"/>
 </p> -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;MSc+Data+Science+Student;AI+Enthusiast;Full+Stack+Developer&center=true&width=500&height=50">
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>

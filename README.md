@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carina De Souza</h1>
-<h3 align="center">Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;MSc+Data+Science+Student;AI+Enthusiast&center=true&width=500&height=50">
 
 <p align="center">
 Passionate about AI, Data Science, and Building Real-World Solutions 🤍
@@ -118,7 +118,23 @@ Currently exploring:
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-<h2 align="center">🏆 GitHub Achievements</h2>
+<!-- <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carinadesouza&theme=algolia&no-frame=true&margin-w=10"/>
+</p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="400"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;MSc+Data+Science+Student;AI+Enthusiast;Full+Stack+Developer&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>

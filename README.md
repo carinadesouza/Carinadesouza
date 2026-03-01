@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=200&section=header&text=Hi,%20I'm%20Carina%20De%20Souza%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MSc%20Data%20Science%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A9FD8&height=200&section=header&text=Hi,%20I'm%20Carina%20De%20Souza%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MSc%20Data%20Science%20Student%20%40%20Lancaster%20University%20%7C%20Passionate%20about%20Data%20Science%2C%20AI%20%26%20Building%20Real-World%20Solutions&descAlignY=58&descSize=16" />
 
 <!-- Profile views + Typing SVG -->
 <p align="center">
@@ -127,17 +126,9 @@
 | 🤖 ML Model Optimisation | Optimising ML pipelines for performance & accuracy | Python, Scikit-learn, Spark |
 | 📊 Data Dashboard | Interactive BI dashboard for real-world datasets | Streamlit, Power BI, Python |
 
-> ⭐ *Replace the bottom two rows with your actual projects & repo links!*
-
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carinadesouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinadesouza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carinadesouza&theme=tokyonight&hide_border=true" height="165"/>
@@ -150,7 +141,7 @@
 
 <!-- 🐍 Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- Footer wave -->

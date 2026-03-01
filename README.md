@@ -55,15 +55,17 @@
 ---
 
 <h3> 🛠️ Tech Stack<h3>
+  
+<br/>
 
 <p>
-  <strong>🧮 Data Science & Machine Learning:</strong><br/>
+  <strong>🧮 Data Science & Machine Learning:</strong><br/><br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="25px"/>
 </p>
 
 <p>
-  <strong>📊 Data Visualization & BI Tools:</strong><br/>
+  <strong>📊 Data Visualization & BI Tools:</strong><br/><br/>
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="25px"/>
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25px"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" height="25px"/>
@@ -72,7 +74,7 @@
 </p>
 
 <p>
-  <strong>🗄️ Databases:</strong><br/>
+  <strong>🗄️ Databases:</strong><br/><br/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
@@ -80,7 +82,7 @@
 </p>
 
 <p>
-  <strong>💻 Programming Languages:</strong><br/>
+  <strong>💻 Programming Languages:</strong><br/><br/>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25px"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25px"/>
@@ -88,7 +90,7 @@
 </p>
 
 <p>
-  <strong>🌐 Frontend Development:</strong><br/>
+  <strong>🌐 Frontend Development:</strong><br/><br/>
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
   <img alt="NextJs" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
@@ -100,7 +102,7 @@
 </p>
 
 <p>
-  <strong>🔗 Backend & APIs:</strong><br/>
+  <strong>🔗 Backend & APIs:</strong><br/><br/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25px"/>
   <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" height="25px"/>
   <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" height="25px"/>
@@ -108,7 +110,7 @@
 </p>
 
 <p>
-  <strong>🚀 Tools & Deployment:</strong><br/>
+  <strong>🚀 Tools & Deployment:</strong><br/><br/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25px"/>
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="25px"/>

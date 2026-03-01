@@ -6,6 +6,22 @@ Passionate about AI, Data Science, and Building Real-World Solutions 🤍
 </p>
 
 ---
+## 🚀 About Me
+
+- 🎓 MSc Data Science Student at Lancaster University (UK)
+- 💡 Passionate about AI, Machine Learning & Data-Driven Solutions
+- 🧠 Strong background in Software Engineering & Full Stack Development
+- 📊 Experienced in building end-to-end Data Science projects
+- 🌍 Interested in AI for social good & real-world impact
+
+Currently exploring:
+- Machine Learning Model Optimization
+- AI Feasibility Modelling
+- Data Analytics for Decision Making
+  
+---
+## Contact me:
+
 - 📫 How to reach me **carinadesouza84@gmail.com**
 - 👨‍💻 All of my projects are available at [https://carina-portfolio.vercel.app](https://carina-portfolio.vercel.app)
 <h3 align="left">Connect with me:</h3>
@@ -86,9 +102,23 @@ Passionate about AI, Data Science, and Building Real-World Solutions 🤍
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25px"/>
 </p>
 
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carinadesouza&show_icons=true&locale=en&layout=compact" alt="carinadesouza" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carina-desouza&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carina-desouza&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carinadesouza&show_icons=true&locale=en" alt="carinadesouza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carinadesouza&" alt="carinadesouza" /></p>
+<!-- 🔥 GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carina-desouza&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<!-- 🐍 Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carina-desouza&theme=algolia&no-frame=true&margin-w=10"/>
+</p>

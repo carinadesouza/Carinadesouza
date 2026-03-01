@@ -24,7 +24,9 @@ Currently exploring:
     <!-- Right: Girly White GIF -->
     <td width="40%" valign="top" align="center">
    <p align="center">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="420"/>
+
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="420"/>
+
    </p>
     </td>
   </tr>

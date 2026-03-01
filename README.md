@@ -23,7 +23,26 @@ Currently exploring:
 </td>
 </tr>
 </table>
-
+<table border="0" cellpadding="10" cellspacing="0" style="border: none;">
+<tr>
+<td width="55%" valign="top" style="border: none;">
+🚀 About Me
+🎓  MSc Data Science Student in the UK <br/>
+🏗️  Software Engineer with Full-Stack experience <br/>
+🤖  Passionate about AI, Machine Learning & Data Analytics <br/>
+🌍  Love building real-world data-driven solutions <br/>
+<br/>
+Currently exploring:
+🔹  Machine Learning Model Optimisation <br/>
+🔹  Spark & Big Data Processing <br/>
+🔹  AI Feasibility Modelling <br/>
+🔹  MLOps & Model Deployment <br/>
+</td>
+<td width="45%" valign="top" align="center" style="border: none;">
+<img src="YOUR_GIF_URL_HERE" alt="coding gif" width="400"/>
+</td>
+</tr>
+</table>
 <!-- Clear float -->
 <div style="clear: both;"></div>
 </div>

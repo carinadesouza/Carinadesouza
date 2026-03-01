@@ -1,19 +1,34 @@
 <h1 align="center">Hi, I'm Carina De Souza</h1>
 <h5> Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 Passionate about Data Science, AI and Building Real-World Solutions.🤍<h5>
+<!-- About Me + GIF Side by Side -->
+<table>
+  <tr>
+    <!-- Left: About Me Text -->
+    <td width="60%" valign="top">
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 MSc Data Science Student at Lancaster University (UK)
-- 💡 Passionate about AI, Machine Learning & Data-Driven Solutions
-- 🧠 Strong background in Software Engineering & Full Stack Development
-- 📊 Experienced in building end-to-end Data Science projects
-- 🌍 Interested in AI for social good & real-world impact
+🎓 MSc Data Science Student in the UK  
+💻 Software Engineer with Full-Stack experience  
+🤖 Passionate about AI, Machine Learning & Data Analytics  
+📊 Love building real-world data-driven solutions  
 
-Currently exploring:
-- Machine Learning Model Optimization
-- AI Feasibility Modelling
-- Data Analytics for Decision Making
-  
+Currently exploring:  
+- Machine Learning Model Optimisation  
+- Spark & Big Data Processing  
+- AI Feasibility Modelling  
+- MLOps & Model Deployment
+
+    </td>
+
+    <!-- Right: Girly White GIF -->
+    <td width="40%" valign="top" align="center">
+   <p align="center">
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="420"/>
+   </p>
+    </td>
+  </tr>
+</table>
 ---
 ## Contact me:
 

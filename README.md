@@ -23,7 +23,7 @@
 
 **Currently exploring:**
 - 🔹 Machine Learning Model Optimisation
-- 🔹 Spark & Big Data Processing
+- 🔹 Big Data Processing
 - 🔹 AI Feasibility Modelling
 - 🔹 MLOps & Model Deployment
 

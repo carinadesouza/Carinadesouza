@@ -13,11 +13,11 @@
 <img align="right" src="https://i.pinimg.com/736x/6a/f0/9e/6af09efef24636a868c92ed7f2bfd688.jpg" alt="coding gif" width="380"/>
 <h3>🚀 About Me</h3>
 
-🎓   MSc Data Science Student in the UK
-💻   Frontend Developer at ISS Innovation Hub
-🌐   Software Engineer with Full-Stack Development experience
-🤖   Passionate about AI, Machine Learning & Data Analytics
-📊   Love building real-world data-driven solutions
+🎓&nbsp;MSc Data Science Student in the UK
+💻&nbsp;Frontend Developer at ISS Innovation Hub
+🌐&nbsp;Software Engineer with Full-Stack Development experience
+🤖&nbsp;Passionate about AI, Machine Learning & Data Analytics
+📊&nbsp;Love building real-world data-driven solutions
 
 <br/>
 

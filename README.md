@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Software Engineer | MSc Data Science Student @ Lancaster University 🇬🇧 &nbsp;|&nbsp; Passionate about Data Science, AI and Building Real-World Solutions 🤍
+  Software Engineer | Data Scientist @ Lancaster University 🇬🇧 &nbsp;|&nbsp; Passionate about Data Science, AI and Building Real-World Solutions 🤍
 </p>
 
 ---
